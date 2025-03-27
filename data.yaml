@@ -1,0 +1,7 @@
+path: /Users/prof3ssor/Documents/mouse-keyboard-detection/
+train: train/images
+val: train/images
+
+names:
+    0: keyboard
+    1: mouse
