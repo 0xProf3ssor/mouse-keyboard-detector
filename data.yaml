@@ -1,4 +1,4 @@
-path: /Users/prof3ssor/Documents/mouse-keyboard-detection/
+path: /Users/prof3ssor/Documents/mouse-keyboard-detection/data
 train: train/images
 val: train/images
 
