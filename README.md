@@ -5,9 +5,9 @@ This repository contains tools and resources for detecting and training models r
 ## Project Structure
 
 - **data/**: Directory containing datasets for training and validation.
-- **runs/**: Directory for storing model outputs and logs.
-- **train/**: Training dataset.
-- **val/**: Validation dataset.
+- **data/train/**: Training dataset.
+- **data/val/**: Validation dataset.
+- **output/**: Directory for storing model outputs and logs.
 - **classes.txt**: List of class labels for detection.
 - **data.yaml**: Configuration file for YOLO training.
 - **notes.json**: Notes and metadata related to the project.
